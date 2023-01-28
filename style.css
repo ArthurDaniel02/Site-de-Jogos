@@ -1,0 +1,140 @@
+body{
+    background-color: rgb(76, 192, 247);
+}
+.Titulo{
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    padding: 1cm;    
+    background-color: #ffffff;
+    margin: 0.4cm;
+    border: 0.2cm solid rgb(0, 0, 0);
+    border-radius: 1cm;
+}
+.Jogos{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+.Zumbi{
+   padding: 2cm;    
+   background-color: #ffffff;
+   margin: 1cm;
+   justify-items: center;
+   align-items: center;
+   border: 0.5cm solid rgb(0, 0, 0);
+   border-radius: 1cm;
+}
+.Zumbi:hover{
+   opacity: 1;
+   border: 0.5cm solid rgb(255, 238, 0);
+   border-radius: 1cm;
+   transform: scale(1.2);
+}
+h3{
+   text-align: center;
+}
+.Fruit{
+    padding: 2cm;    
+    background-color: #ffffff;
+    margin: 1cm;
+    justify-items: center;
+    align-items: center;
+    border: 0.5cm solid rgb(0, 0, 0);
+    border-radius: 1cm;
+ }
+ .Run{
+    padding: 2cm;    
+    background-color: #ffffff;
+    margin: 1cm;
+    justify-items: center;
+    align-items: center;
+    border: 0.5cm solid rgb(0, 0, 0);
+    border-radius: 1cm;
+ }
+ .Bike{
+    padding: 2cm;    
+    background-color: #ffffff;
+    margin: 1cm;
+    justify-items: center;
+    align-items: center;
+    border: 0.5cm solid rgb(0, 0, 0);
+    border-radius: 1cm;
+ }
+ .Trex{
+   padding: 2cm;    
+   background-color: #ffffff;
+   margin: 1cm;
+   justify-items: center;
+   align-items: center;
+   border: 0.5cm solid rgb(0, 0, 0);
+   border-radius: 1cm;
+}
+.Arc{
+   padding: 2cm;    
+   background-color: #ffffff;
+   margin: 1cm;
+   justify-items: center;
+   align-items: center;
+   border: 0.5cm solid rgb(0, 0, 0);
+   border-radius: 1cm;
+}
+.Coel{
+   padding: 2cm;    
+   background-color: #ffffff;
+   margin: 1cm;
+   justify-items: center;
+   align-items: center;
+   border: 0.5cm solid rgb(0, 0, 0);
+   border-radius: 1cm;
+}
+.Xerife{
+   padding: 2cm;    
+   background-color: #ffffff;
+   margin: 1cm;
+   justify-items: center;
+   align-items: center;
+   border: 0.5cm solid rgb(0, 0, 0);
+   border-radius: 1cm;
+}
+.Xerife:hover{
+   opacity: 1;
+   border: 0.5cm solid rgb(255, 238, 0);
+   border-radius: 1cm;
+   transform: scale(1.2);
+}
+.Coel:hover{
+   opacity: 1;
+   border: 0.5cm solid rgb(255, 238, 0);
+   border-radius: 1cm;
+   transform: scale(1.2);
+}
+.Arc:hover{
+   opacity: 1;
+   border: 0.5cm solid rgb(255, 238, 0);
+   border-radius: 1cm;
+   transform: scale(1.2);
+}
+.Trex:hover{
+   opacity: 1;
+   border: 0.5cm solid rgb(255, 238, 0);
+   border-radius: 1cm;
+   transform: scale(1.2);
+}
+.Fruit:hover{
+   opacity: 1;
+   border: 0.5cm solid rgb(255, 238, 0);
+   border-radius: 1cm;
+   transform: scale(1.2);
+}.Bike:hover{
+   opacity: 1;
+   border: 0.5cm solid rgb(255, 238, 0);
+   border-radius: 1cm;
+   transform: scale(1.2);
+}.Run:hover{
+   opacity: 1;
+   border: 0.5cm solid rgb(255, 238, 0);
+   border-radius: 1cm;
+   transform: scale(1.2);
+ }
